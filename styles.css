@@ -52,6 +52,7 @@ h1 {
 input {
     width: 500px;
     padding-left: 10px;
+    color: black;
 }
 
 #botao-email {
